@@ -8,15 +8,17 @@ A simple blog post manager built using **HTML**, **CSS**, and **JavaScript**, wi
 
 ## 📂 Project Structure
 
-```Code-Challenge-3/
+```
+Code-Challenge-3/
 ├── db.json
 ├── index.html
 ├── css/
 │   └── styles.css
 ├── src/
 │   └── index.js
-└── README.md```
-
+└── README.md
+```
+gi
 
 
 
