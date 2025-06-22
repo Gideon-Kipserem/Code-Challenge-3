@@ -42,6 +42,7 @@ Code-Challenge-3/
  2. Install JSON Server
  3. Create a db.json file in the project root
  4. Start JSON Server
+ 5. Run live server
 
 
  ## ✅ Requirements Covered

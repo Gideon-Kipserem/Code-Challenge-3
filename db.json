@@ -5,6 +5,12 @@
       "title": "My Blog",
       "content": "Hi cuz!",
       "author": "Gideon"
+    },
+    {
+      "id": "a6e2",
+      "title": "Another Blog",
+      "content": "Hi Bro!",
+      "author": "Riggy G"
     }
   ]
 }
