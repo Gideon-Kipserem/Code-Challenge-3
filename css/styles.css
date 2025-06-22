@@ -69,19 +69,18 @@ form button {
   color: white;
   border-radius: 4px;
   cursor: pointer;
+   border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-form button:hover {
-  background-color: #2980b9;
-}
 
 #cancel-edit {
   background-color: #aaa;
+   border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-#cancel-edit:hover {
-  background-color: #888;
-}
+
 
 #post-detail {
   background: white;
@@ -97,3 +96,18 @@ form button:hover {
 .hidden {
   display: none;
 }
+
+
+
+#edit-btn {
+  background-color: #2980b9;/* teal */
+}
+
+
+
+#delete-btn {
+  border: none;
+  background-color: #ef0303; /* orange */
+}
+
+

@@ -115,7 +115,7 @@ function deletePost(id) {
   });
 }
 
-// Init
+// Initialize
 function main() {
   displayPosts();
   addNewPostListener();
