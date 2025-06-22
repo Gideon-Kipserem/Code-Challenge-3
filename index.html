@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Blog Manager</title>
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body>
+  <h1>Blog Posts</h1>
+
+  <div class="main-layout">
+    <div id="post-list"></div>
+
+    <form id="new-post-form">
+      <h2>New Post</h2>
+      <input type="text" id="new-title" placeholder="Title" required />
+      <input type="text" id="new-author" placeholder="Author" required />
+      <textarea id="new-content" placeholder="Content" required></textarea>
+      <button type="submit">Add Post</button>
+    </form>
+  </div>
+
+  <form id="edit-post-form" class="hidden">
+    <h4>Update Post Details</h4>
+    <input type="text" id="edit-title" />
+    <textarea id="edit-content" rows="5"></textarea>
+    <button type="submit">Update Post</button>
+    <button type="button" id="cancel-edit">Cancel</button>
+  </form>
+
+  <div id="post-detail"></div>
+
+  <script src="./src/index.js"></script>
+</body>
+</html>
