@@ -18,7 +18,7 @@ Code-Challenge-3/
 │   └── index.js
 └── README.md
 ```
-gi
+
 
 
 
@@ -64,3 +64,6 @@ gi
 
  ## 👨‍💻 Author
 Gideon Kipserem
+
+## 📄 License
+This project is licensed under the MIT License.
